@@ -12,3 +12,7 @@ There is a gradin system implemented. One can only grade his helper if the help 
 There is a ranking system for the best helpers.
 You can only register if your mail domain is fer.hr but this can be chanegd easily in code.
 The app is connected to a mail server and sends emails during registration, deletion of Notices and when your Notice gets a new comment.
+
+
+We removed passwords and usernames for email clients and the database, so in order to run this code you need to put your own values for the attributes in question.
+They are located in the aplication.properties file on the backend.

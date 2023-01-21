@@ -29,3 +29,5 @@ They are located in the application.properties file on the backend.
 
 
 Frontend has proxy files that redirect it to a host render.com but this can be deleted to run locally. 
+
+Testing for the classes is also included in the project.
